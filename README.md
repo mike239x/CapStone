@@ -1,2 +1,2 @@
 # CapStone
-GameContainer in game package is executable.
+GameContainer class in game package is executable.
